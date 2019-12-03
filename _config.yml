@@ -112,6 +112,7 @@ author:
   bio              : "Biostatistics Ph.D student <br> School of public Health <br> Yale University"
   location         : "New Haven, CT"
   email            : "xiaoxuan.cai@yale.edu"
+  linkedin         : "xiaoxuancai/"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
