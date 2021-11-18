@@ -6,4 +6,36 @@ comments: true
 author_profile: true
 ---
 
-Talks.
+2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC (upcoming)
+
+2021 Invited session, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice. (upcoming)
+
+2021 E-poster session, 3rd Annual Health Data Science Symposium, Boston, MA <a href="/assets/Talk_slides/202111_3rd_Annual_Health_Data_Science_Symposium.pdf">[Slide]</a>
+
+2021 Presentation, 2021 Joint Statistical Meetings, Virtual <a href="/assets/Talk_slides/JSM2021_15min.pdf">[Slide]</a>
+
+2021 Invited session, 42th International Society of Clinical Biostatistics, Lyon, France <a href="/assets/Talk_slides/ISCA2021.pdf">[Slide]</a>
+
+2021 Invited session, 2021 ENAR, Virtual <a href="/assets/Talk_slides/ENAR2021.pdf">[Slide]</a>
+
+2020 Causal inference learning group, School of Public Health, Columbia University, Virtual
+
+2020 Biostatistics department seminar, School of Public Health, Columbia University, Virtual <a href="/assets/Talk_slides/20201104_Columbia.pdf">[Slide]</a>
+
+2020 Invited session, 2020 Women in Statistics and Data Science Conference, Virtual <a href="/assets/Talk_slides/WSDS2020.pdf">[Slide]</a>
+
+2020 Invited session, 2020 Joint Statistical Meetings, Philadelphia, PA <a href="/assets/Talk_slides/JSM2020.pdf">[Slide]</a>
+
+2019 Research presentation, School of Public Health, Yale University, New Haven, CT
+
+2019 Contributed session, 2019 Joint Statistical Meetings, Denver, CO
+
+2019 Invited session, 33nd New England Statistics Symposium, Hartford, CT
+
+2019 Invited session, 2019 ENAR, Philadelphia, PA
+
+2018 Invited session, 2018 Women in Statistics and Data Science Conference, Cincinnati, OH
+
+2018 Poster session, 32nd New England Statistics Symposium, Amherst, MA
+
+2018 Speed session, 2018 Joint Statistical Meetings, Vancouver, BC
