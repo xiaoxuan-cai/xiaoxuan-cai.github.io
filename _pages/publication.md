@@ -8,9 +8,11 @@ author_profile: true
 
 ### Working Papers
 
-1. **Xiaoxuan Cai**, Xinru Wang, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2021) State space model multiple imputation for missing data in non-stationary multivariate time series. *(Manuscript accepted by NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice)*
+1. Linda Valeri,**Xiaoxuan Cai**, Aijin Wang, Zixu Wang, Habiballah Rahimi Eichi, Einat Liebenthal, Scott Rauch, Dost Ongur, Russell Schutt, Lisa Dixon, Justin Baker, Jukka-Pekka Onnela (2021). Smartphone-based markers of social networks in schizophrenia and bipolar disorder.
 
-2. **Xiaoxuan Cai**, Jukka-Pekka Onnela, Justin T. baker, Linda Valeri (2021) Causal inference for non-stationary multivariate time series data from mobile devices in N-of-1 studies.
+2. **Xiaoxuan Cai**, Xinru Wang, Lisa Dixon, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2021) State space model multiple imputation for missing data in non-stationary multivariate time series. *(Manuscript accepted by NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice)*
+
+3. **Xiaoxuan Cai**, Jukka-Pekka Onnela, Justin T. baker, Linda Valeri (2021) Causal inference for non-stationary multivariate time series data from mobile devices in N-of-1 studies.
 
 ### Submitted
 
