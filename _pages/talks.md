@@ -8,7 +8,11 @@ author_profile: true
 
 2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC (upcoming)
 
-2021 Invited session, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice. (upcoming)
+2022 Department Seminar, Center for Biostatistics, College of Medicine, The Ohio State University (upcoming)
+
+2022 Department Seminar, Division of Biostatistics, NYU Grossman School of Medicine (upcoming)
+
+2021 Invited session, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice.
 
 2021 E-poster session, 3rd Annual Health Data Science Symposium, Boston, MA <a href="/assets/Talk_slides/202111_3rd_Annual_Health_Data_Science_Symposium.pdf">[Slide]</a>
 
