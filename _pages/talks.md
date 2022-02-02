@@ -14,7 +14,7 @@ author_profile: true
 
 2022 Department Seminar, Center for Biostatistics, College of Medicine, The Ohio State University.
 
-2022 Department Seminar, Division of Biostatistics, NYU Grossman School of Medicine <a href="/assets/Talk_slidesJobtalk_NYU_xiaoxuan.pdf">[Slide]</a>
+2022 Department Seminar, Division of Biostatistics, NYU Grossman School of Medicine <a href="/assets/Talk_slides/Jobtalk_NYU_xiaoxuan.pdf">[Slide]</a>
 
 2021 Invited session, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice.
 
