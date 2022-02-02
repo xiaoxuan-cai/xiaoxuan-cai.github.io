@@ -8,9 +8,13 @@ author_profile: true
 
 2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC (upcoming)
 
-2022 Department Seminar, Center for Biostatistics, College of Medicine, The Ohio State University (upcoming)
+2022 Contributed session, 2022 ENAR, Houston, TX (upcoming)
 
-2022 Department Seminar, Division of Biostatistics, NYU Grossman School of Medicine (upcoming)
+2022 Invited presentation, Department of Psychiatry Research Rounds, NYU Langone Health.
+
+2022 Department Seminar, Center for Biostatistics, College of Medicine, The Ohio State University.
+
+2022 Department Seminar, Division of Biostatistics, NYU Grossman School of Medicine <a href="/assets/Talk_slidesJobtalk_NYU_xiaoxuan.pdf">[Slide]</a>
 
 2021 Invited session, NeurIPS 2021 Workshop on Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice.
 
