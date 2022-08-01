@@ -5,10 +5,17 @@ permalink: /Talks/
 comments: true
 author_profile: true
 ---
+2022 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
+
+2022 Department seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
+
+2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO (upcoming)
 
 2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC (upcoming)
 
-2022 Contributed session, 2022 ENAR, Houston, TX (upcoming)
+2022 Invited session, Applied Statistics Symposium 2022, Gainesville, FL
+
+2022 Contributed session, 2022 ENAR, Houston, TX 
 
 2022 Invited presentation, Department of Psychiatry Research Rounds, NYU Langone Health.
 
