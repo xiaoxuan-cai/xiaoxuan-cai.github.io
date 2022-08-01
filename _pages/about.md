@@ -6,7 +6,9 @@ comments: true
 author_profile: true
 ---
 
-I am a postdoctoral researcher at <a href="https://www.publichealth.columbia.edu/academics/departments/biostatistics">the Department of Biostatistics</a>, Columbia University. I work with <a href="https://www.lindavaleri.com/">Dr. Linda Valeri</a>. I received my Ph.D. training in Biostatistics with <a href="http://www.crawfordlab.io/">Dr. Forrest W. Crawford</a>, at the <a href="https://publichealth.yale.edu/biostat/"> School of Public Health</a> at Yale University.
+I am a postdoctoral researcher at <a href="https://www.publichealth.columbia.edu/academics/departments/biostatistics">the Department of Biostatistics</a>, Columbia University. In the fall of 2022, I will join the Statistics Department at Ohio State University <a href="https://stat.osu.edu/>as an Assistant Professor.
+
+I received my Ph.D. training in Biostatistics with <a href="http://www.crawfordlab.io/">Dr. Forrest W. Crawford</a>, at the <a href="https://publichealth.yale.edu/biostat/"> School of Public Health</a> at Yale University. I received my postdoc training in Biostatistics with<a href="https://www.lindavaleri.com/">Dr. Linda Valeri</a> at Columbia University.
 
 ### Education
 - Ph.D in Biostatistics, Yale University (Advisor: Forrest W. Crawford)
