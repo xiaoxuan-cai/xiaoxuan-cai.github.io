@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Xiaoxuan (Tracy) Cai"
   avatar           : "/assets/images/bio-photo2.jpg"
-  bio              : "Biostatistics Postdoc Researcher <br> School of public Health <br> Columbia University"
-  location         : "New York, NY"
-  email            : "xc2577@cumc.columbia.edu"
+  bio              : "Assistant Professor <br> Department of Statistics <br> Ohio State University"
+  location         : "Columbus, OH"
+  email            : "cai.1083@osu.edu"
   linkedin         : "xiaoxuancai/"
 links:
     - label: "Email"
