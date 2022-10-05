@@ -11,7 +11,7 @@ author_profile: true
 
 2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO (upcoming)
 
-2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC (upcoming)
+2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC <a href="/assets/Talk_slides/JSM2022.pdf">[Slide]</a>
 
 2022 Invited session, Applied Statistics Symposium 2022, Gainesville, FL
 
