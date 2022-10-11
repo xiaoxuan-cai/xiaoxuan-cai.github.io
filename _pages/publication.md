@@ -12,7 +12,7 @@ author_profile: true
 
 2. **Xiaoxuan Cai**, Jukka-Pekka Onnela, Justin T. baker, Linda Valeri (2021) Causal inference for non-stationary multivariate time series data from mobile devices in N-of-1 studies.
 
-3. Junzhe Shao, **Xiaoxuan Cai**, Linda Valeri (2022). Generalized synthetic control method with state space model. Submitted to NeurIPS
+3. Junzhe Shao, Mingzhang Yin, **Xiaoxuan Cai**, Linda Valeri (2022). Generalized synthetic control method with state space model. Submitted to NeurIPS
 
 ### Submitted
 
