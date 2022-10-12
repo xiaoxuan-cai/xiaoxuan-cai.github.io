@@ -20,7 +20,7 @@ author_profile: true
 
 2.  **Xiaoxuan Cai**, Xinru Wang, Lisa Dixon, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2021) State space model multiple imputation for missing data in non-stationary multivariate time series. *submitted* <a href="https://arxiv.org/abs/2206.14343"> [paper] </a>
 
-3. Charlotte Fowler, **Xiaoxuan Cai**, Justin Baker, Jukka-Pekka Onnela, and Linda Valeri (2022). Testing unit root non-stationarity in the presence of missing data in univariate time series of mobile health studies. Submitted to Biometrics
+3. Charlotte Fowler, **Xiaoxuan Cai**, Justin Baker, Jukka-Pekka Onnela, and Linda Valeri (2022). Testing unit root non-stationarity in the presence of missing data in univariate time series of mobile health studies. *Submitted to Biometrics* <a href="https://arxiv.org/abs/2210.04998"> [paper] </a>
 
 ### Peer-reviewed publication.
 
