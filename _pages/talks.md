@@ -5,9 +5,13 @@ permalink: /Talks/
 comments: true
 author_profile: true
 ---
-2022 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
+2023/08 Invited session, 2023 Joint Statistical Meetings, Ontario, Canada (upcoming)
 
-2022 Department seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
+2022/12 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
+
+2022/11 Department research seminar, Department of Psychaitry and Behaviral Health, The Ohio State University, Columbus, OH (upcoming)
+
+2022/11 Department seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
 
 2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO (upcoming)
 
