@@ -5,21 +5,21 @@ permalink: /Talks/
 comments: true
 author_profile: true
 ---
-2023/08 Invited session, 2023 Joint Statistical Meetings, Ontario, Canada (upcoming)
+08/2023 Invited session, 2023 Joint Statistical Meetings, Ontario, Canada (upcoming)
 
-2022/12 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
+12/2022 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
 
-2022/11 Department research seminar, Department of Psychaitry and Behaviral Health, The Ohio State University, Columbus, OH (upcoming)
+11/2022 Department research seminar, Department of Psychaitry and Behaviral Health, The Ohio State University, Columbus, OH (upcoming)
 
-2022/11 Department seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
+11/2022 Department research seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
 
-2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO (upcoming)
+10/2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO
 
-2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC <a href="/assets/Talk_slides/JSM2022.pdf">[Slide]</a>
+08/2022 Invited session, 2022 Joint Statistical Meetings, Washington, DC <a href="/assets/Talk_slides/JSM2022.pdf">[Slide]</a>
 
-2022 Invited session, Applied Statistics Symposium 2022, Gainesville, FL
+06/2022 Invited session, Applied Statistics Symposium 2022, Gainesville, FL
 
-2022 Contributed session, 2022 ENAR, Houston, TX 
+03/2022 Contributed session, 2022 ENAR, Houston, TX 
 
 2022 Invited presentation, Department of Psychiatry Research Rounds, NYU Langone Health.
 
