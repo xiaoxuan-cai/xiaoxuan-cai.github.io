@@ -26,5 +26,7 @@ author_profile: true
 
 1. **Xiaoxuan Cai** , Wen Wei Loh, and Forrest W. Crawford. (2021) Identification of Causal intervention effects under contagion. *Journal of Causal Inference*, 9, 9-38.  **(Winner of best paper award, ASA Section on Statistics in Epidemiology)** <a href="https://www.degruyter.com/document/doi/10.1515/jci-2019-0033/html"> [paper] </a>
 
+2. Linda Valeri, **Xiaoxuan Cai**, Habiballah Rahimi Eichi, Einat Liebenthal, Scott Rauch, Dost Ongur, Russell Schutt, Lisa Dixon, Justin Baker, Jukka-Pekka Onnela (2024). Smartphone-based markers of social networks in schizophrenia and bipolar disorder. NPP-Digital Psychiatry and Neuroscience. <a href="https://www.nature.com/articles/s44277-024-00013-w"> [paper] </a>
+
 ### Other
 1. Regina Melendes, **Xiaoxuan Cai**, Cristine Hine, et al. (2015) Correlates of Cocaine Use in Pregnancy. Yale Medicine Thesis Digital Library
