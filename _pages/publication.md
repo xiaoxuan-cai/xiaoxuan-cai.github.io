@@ -8,8 +8,6 @@ author_profile: true
 
 ### Working Papers
 
-3. Junzhe Shao, Mingzhang Yin, **Xiaoxuan Cai**, Linda Valeri (2022). Generalized synthetic control method with state space model. Submitted to NeurIPS
-
 ### Submitted
 
 1.  **Xiaoxuan Cai**, Eben Kenah, and Forrest W. Crawford (2020) Causal identification of infectious disease intervention effects in a clustered population. *Submitted* <a href="https://arxiv.org/abs/2105.03493"> [paper] </a>
