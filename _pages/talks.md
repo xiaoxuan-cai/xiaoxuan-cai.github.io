@@ -5,13 +5,15 @@ permalink: /Talks/
 comments: true
 author_profile: true
 ---
-08/2023 Invited session, 2023 Joint Statistical Meetings, Ontario, Canada (upcoming)
+06/2025 Invited session, 2025 ICSA Applied Statistics Symposium, Storrs, CT <a href="/assets/Talk_slides/20250717_ICSA_MCEM-SSM.pdf">[Slide]</a>
 
-12/2022 Invited session, CMStatistics Conference 2022, King's College London, UK (upcoming)
+08/2023 Invited session, 2023 Joint Statistical Meetings, Ontario, Canada
 
-11/2022 Department research seminar, Department of Psychaitry and Behaviral Health, The Ohio State University, Columbus, OH (upcoming)
+12/2022 Invited session, CMStatistics Conference 2022, King's College London, UK
 
-11/2022 Department research seminar, School of Biomedical Informatics, UT Health, Houston, TX (upcoming)
+11/2022 Department research seminar, Department of Psychaitry and Behaviral Health, The Ohio State University, Columbus, OH
+
+11/2022 Department research seminar, School of Biomedical Informatics, UT Health, Houston, TX
 
 10/2022 Inivited session, Women in Statistics and Data Science 2022, St Louis, MO
 
