@@ -32,7 +32,7 @@ author_profile: true
 
 5. Aubrey M. Moe, **Xiaoxuan Cai**, Chenze Li, Healther M. Wastler. (2025) Perceived Burdensomeness and Influence of Thwarted Belongingness Prospectively influence Real-World Support-Seeking Behavior Among Emerging Adults with First-Episode Psychosis. Schizophrenia Research, 285: 228-294. <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/sltb.70050"> [paper] </a>
    
-6. Melanie L. Bozzay, **Xiaoxuan Cai**, Jiaxin Chen, Samantha Daruwala, Lauren Khazem, Heather M. Wastler, Nicholas P. Allan, Annabelle O. Bryan, Craig J. Bryan (2025). Comparing the Impacts of Crisis Response Plan and Self-Administered Safety Plan Use in Real Life on Key Clinical Outcomes. Suicide and Life-Threatening Behavior 55, no. 5: e70050
+6. Melanie L. Bozzay, **Xiaoxuan Cai**, Jiaxin Chen, Samantha Daruwala, Lauren Khazem, Heather M. Wastler, Nicholas P. Allan, Annabelle O. Bryan, Craig J. Bryan (2025). Comparing the Impacts of Crisis Response Plan and Self-Administered Safety Plan Use in Real Life on Key Clinical Outcomes. Suicide and Life-Threatening Behavior 55, no. 5: e70050. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12429010/"> [paper] </a>
 
 
 
