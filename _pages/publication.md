@@ -14,11 +14,9 @@ author_profile: true
 
 2.  **Xiaoxuan Cai**, Xinru Wang, Li Zeng, Lisa Dixon, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2021) State space model multiple imputation for missing data in non-stationary multivariate time series. *submitted* <a href="https://arxiv.org/abs/2206.14343"> [paper] </a>
 
-3. **Xiaoxuan Cai**, Charlotte Fowler, Li Zeng, Lisa Dixon, Dost Ongur, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri.(2024) Causal estimands and identification of time-varying effects in non-stationary time series from N-of-1 mobile device data. Major revision invited by Biostatistics on Sep 2024. <a href="https://arxiv.org/abs/2407.17666"> [paper] </a>
+3. **Xiaoxuan Cai**, Charlotte Fowler, Li Zeng, Habiballah Rahimi Eichi, Dost Ongur, Lisa Dixon, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri. (2025) Missing data in non-stationary multivariate time series from digital studies in Psychiatry. Submitted to Biometrics. <a href="https://arxiv.org/abs/2506.14946"> [paper] </a>
 
-4. **Xiaoxuan Cai**, Charlotte Fowler, Li Zeng, Habiballah Rahimi Eichi, Dost Ongur, Lisa Dixon, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri. (2025) Missing data in non-stationary multivariate time series from digital studies in Psychiatry. Submitted to Biometrics. <a href="https://arxiv.org/abs/2506.14946"> [paper] </a>
-
-5. Charlotte R. Fowler, **Xiaoxuan Cai**, Hahihallah Rahimi-Eichi, Lisa Dixon, Dost Ongur, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2025). Individual causal effect estimation accounting for latent disease state modification among bipolar participants in mobile health studies. Submitted. <a href="https://arxiv.org/abs/2501.08270"> [paper] </a>
+4. Charlotte R. Fowler, **Xiaoxuan Cai**, Hahihallah Rahimi-Eichi, Lisa Dixon, Dost Ongur, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri (2025). Individual causal effect estimation accounting for latent disease state modification among bipolar participants in mobile health studies. Submitted. <a href="https://arxiv.org/abs/2501.08270"> [paper] </a>
 
 ### Peer-reviewed publication.
 
@@ -34,6 +32,7 @@ author_profile: true
    
 6. Melanie L. Bozzay, **Xiaoxuan Cai**, Jiaxin Chen, Samantha Daruwala, Lauren Khazem, Heather M. Wastler, Nicholas P. Allan, Annabelle O. Bryan, Craig J. Bryan (2025). Comparing the Impacts of Crisis Response Plan and Self-Administered Safety Plan Use in Real Life on Key Clinical Outcomes. Suicide and Life-Threatening Behavior 55, no. 5: e70050. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12429010/"> [paper] </a>
 
+7. **Xiaoxuan Cai**, Charlotte Fowler, Li Zeng, Lisa Dixon, Dost Ongur, Justin T. Baker, Jukka-Pekka Onnela, Linda Valeri.(2024) Causal estimands and identification of time-varying effects in non-stationary time series from N-of-1 mobile device data. Accepted by Biostatistics on Oct 2025. <a href="https://arxiv.org/abs/2407.17666"> [paper] </a>
 
 
 ### Other
