@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Columbus, OH"
+locale                   : "en"
 title                    : "Xiaoxuan Cai"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Xiaoxuan (Tracy) Cai"
   avatar           : "/assets/images/bio-photo2.jpg"
-  bio              : "Assistant Professor<br>Department of Statistics<br>Affiliated with the College of Public Health and the Translational Data Analytics Institute<br>The Ohio State University"
+  bio              : "Assistant Professor<br>Department of Statistics<br>The Ohio State University"
   location         : "Columbus, OH"
   email            : "cai.1083@osu.edu"
   linkedin         : "xiaoxuancai/"
