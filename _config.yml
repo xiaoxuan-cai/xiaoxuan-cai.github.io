@@ -20,7 +20,7 @@ title                    : "Xiaoxuan Cai"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xiaoxuan(Tracy) Cai"
-description              : "Assistant Professor in Statistics"
+description              : "Assistant Professor of Statistics, The Ohio State University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Xiaoxuan (Tracy) Cai"
   avatar           : "/assets/images/bio-photo2.jpg"
-  bio              : "Assistant Professor <br> Department of Statistics <br> Ohio State University"
+  bio              : "Assistant Professor<br>Department of Statistics<br>Affiliated with the College of Public Health and the Translational Data Analytics Institute<br>The Ohio State University"
   location         : "Columbus, OH"
   email            : "cai.1083@osu.edu"
   linkedin         : "xiaoxuancai/"
