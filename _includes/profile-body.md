@@ -12,7 +12,7 @@ I am an Assistant Professor in the [Department of Statistics](https://stat.osu.e
 
 I received my Ph.D. training in Biostatistics with [Dr. Forrest W. Crawford](http://www.crawfordlab.io/) at the [Yale School of Public Health](https://ysph.yale.edu/). I completed my postdoctoral training with [Dr. Linda Valeri](https://www.lindavaleri.com/) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at the Columbia Mailman School of Public Health.
 
-<p class="links"><a href="{{ '/assets/pdffiles/CV_XiaoxuanCai_new.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/pdffiles/Xiaoxuan_Research_Statement.pdf' | relative_url }}">Research statement</a></p>
+<p class="links"><a href="{{ '/assets/pdffiles/CV_XiaoxuanCai_new.pdf' | relative_url }}">CV</a> · <a href="https://stat.osu.edu/people/cai.1083">Ohio State</a> · <a href="https://scholar.google.com/scholar?q=author:%22Xiaoxuan+Cai%22+%22Ohio+State%22">Google Scholar</a></p>
 
 </div>
 </div>
