@@ -5,11 +5,17 @@ permalink: /Talks/
 classes:
   - academic
 comments: false
-author_profile: true
+author_profile: false
 ---
+
+## 2026
+
+<p class="talk"><span class="talk-when">Oct 2026</span> Invited session, Women in Statistics and Data Science, Cincinnati, OH.</p>
+<p class="talk"><span class="talk-when">Aug 2026</span> Topic-contributed session, Joint Statistical Meetings, Boston, MA.</p>
 
 ## 2025
 
+<p class="talk"><span class="talk-when">Sep 2025</span> Seminar, Division of Bioinformatics, The Ohio State University, OH.</p>
 <p class="talk"><span class="talk-when">Jun 2025</span> Invited session, ICSA Applied Statistics Symposium, Storrs, CT. <a href="{{ '/assets/Talk_slides/20250717_ICSA_MCEM-SSM.pdf' | relative_url }}">slides</a></p>
 
 ## 2023

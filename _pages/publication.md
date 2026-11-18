@@ -5,7 +5,7 @@ permalink: /Publications/
 classes:
   - academic
 comments: false
-author_profile: true
+author_profile: false
 ---
 
 ## Manuscripts

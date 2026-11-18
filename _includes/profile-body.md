@@ -1,3 +1,9 @@
+<h1 class="gs-title">Xiaoxuan Cai（蔡晓璇）</h1>
+
+<div class="gs-intro" markdown="1">
+<img src="{{ '/assets/images/bio-photo2.jpg' | relative_url }}" alt="Xiaoxuan Cai">
+<div markdown="1">
+
 <p class="welcome">Welcome. Current and prospective Ph.D. students who would like to learn more about my research are welcome to write to me at <a href="mailto:cai.1083@osu.edu">cai.1083@osu.edu</a>.</p>
 
 ## About me
@@ -6,7 +12,10 @@ I am an Assistant Professor in the [Department of Statistics](https://stat.osu.e
 
 I received my Ph.D. training in Biostatistics with [Dr. Forrest W. Crawford](http://www.crawfordlab.io/) at the [Yale School of Public Health](https://ysph.yale.edu/). I completed my postdoctoral training with [Dr. Linda Valeri](https://www.lindavaleri.com/) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at the Columbia Mailman School of Public Health.
 
-<a href="{{ '/assets/pdffiles/CV_XiaoxuanCai_new.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/pdffiles/Xiaoxuan_Research_Statement.pdf' | relative_url }}">Research statement</a>
+<p class="links"><a href="{{ '/assets/pdffiles/CV_XiaoxuanCai_new.pdf' | relative_url }}">CV</a> · <a href="{{ '/assets/pdffiles/Xiaoxuan_Research_Statement.pdf' | relative_url }}">Research statement</a></p>
+
+</div>
+</div>
 
 ## Research
 

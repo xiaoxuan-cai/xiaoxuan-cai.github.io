@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "About"
+title: ""
 permalink: /About/
 classes:
   - academic
 comments: false
-author_profile: true
+author_profile: false
 ---
 
 {% include profile-body.md %}
