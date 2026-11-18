@@ -20,7 +20,15 @@ author_profile: false
 
 ## 2023
 
+<p class="talk"><span class="talk-when">Dec 2023</span> Invited session, CMStatistics, Berlin, Germany.</p>
+<p class="talk"><span class="talk-when">Oct 2023</span> Seminar, Population Health Sciences Division, School of Medicine, University of Utah, Salt Lake City, UT.</p>
 <p class="talk"><span class="talk-when">Aug 2023</span> Invited session, Joint Statistical Meetings, Ontario, Canada.</p>
+<p class="talk"><span class="talk-when">Aug 2023</span> Poster, 23rd New Researchers Conference, Ontario, Canada.</p>
+<p class="talk"><span class="talk-when">Jun 2023</span> Invited session, ICSA Applied Statistics Symposium, Ann Arbor, MI.</p>
+<p class="talk"><span class="talk-when">Apr 2023</span> Invited talk, Joint Biostatistics Symposium, Cleveland, OH.</p>
+<p class="talk"><span class="talk-when">Mar 2023</span> Seminar, School of Public Health, The Ohio State University, Columbus, OH.</p>
+<p class="talk"><span class="talk-when">Feb 2023</span> Seminar, Translational Data Analytics Institute, The Ohio State University, Columbus, OH.</p>
+<p class="talk"><span class="talk-when">Feb 2023</span> Research seminar, Department of Psychiatry and Behavioral Health, The Ohio State University, Columbus, OH.</p>
 
 ## 2022
 
